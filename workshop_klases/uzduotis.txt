@@ -1,0 +1,11 @@
+2 užduotis. UŽRAŠYKITE CSS STILIAUS TAISYKLES (RECEPTAI).
+
+UŽDUOTIES SĄLYGA: naudojant skirtingas CSS selektorių kategorijas, aprašykite antraščių, pastraipų ir kt. elementų nurodytus stilius.  Css faile atlikti nurytus pakeitimus.
+
+Duoti failai:
+       1. HTML (index.html)
+       2. CSS (style.css)
+Reikalavimai: 
+1.	HTML dokumente, HEAD dalyje, įterpti nuorodą į CSS failą.
+2.	CSS faile aprašyti stiliaus taisykles pagal reikalavimus.
+
